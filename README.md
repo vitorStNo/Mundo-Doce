@@ -1,2 +1,2 @@
-# Mundo-Doce
-meu primeiro projeto (HTML e CSS)
+# Mundo Doce
+ Projeto desenvolvimdo para o curso PROA
